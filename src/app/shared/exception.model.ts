@@ -1,0 +1,9 @@
+/*
+Skill Exception
+
+This is an exception object that holds possible acception
+tags that are added
+
+
+
+*/
