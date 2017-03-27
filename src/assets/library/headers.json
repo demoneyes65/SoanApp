@@ -1,4 +1,5 @@
-{
+[
+	{
 		"name": "Physicality",
 		"type": "HEADER",
 		"cost": 1,
@@ -17,92 +18,92 @@
 		"type": "HEADER",
 		"cost": 1,
 		"fluff": " Sometimes direct force is hardly the best option.  A little guile, a little diplomacy, and a little compromise can go a long way. And if things should go south as it were, a hasty retreat can prove necessary.  It can take influence to get the ball rolling on a great many of things.",
-		"description": "Influence Header Power - Fleet of Feet -  You have assessed the situation and have decided this is no place for you.  Once per reset you may retreat from an attacker.  During this time you call resist to any damage you receive for ten seconds as long as you are running away from a fight.  Bonus use if you have the Acrobatics Ability.",
+		"description": "Influence Header Power - Fleet of Feet -  You have assessed the situation and have decided this is no place for you.  Once per reset you may retreat from an attacker.  During this time you call resist to any damage you receive for ten seconds as long as you are running away from a fight.  Bonus use if you have the Acrobatics Ability."
 	},
   {
 		"name": "Resonance",
 		"type": "HEADER",
 		"cost": 1,
 		"fluff": "There are some of those amongst us that are aware of a larger world.  These individuals have a knack for the super-natural and Divine elements around us.  Resonance allows us to perceive and a modicum of control of those super natural forces.",
-		"description": "Resonance Header Power - Elemental Resonance You find yourself able to speak to a great many things from beyond.  When this header power is active you can freely cast commune with one type of the following- Animal, Construct, Outsider",
+		"description": "Resonance Header Power - Elemental Resonance You find yourself able to speak to a great many things from beyond.  When this header power is active you can freely cast commune with one type of the following- Animal, Construct, Outsider"
 	},
   {
 		"name": "Basic Weapons Header",
 		"type": "HEADER",
 		"cost": 0,
 		"fluff": "Often overlooked but just as deadly in the right hands, sometimes a simple knife or low shot firearm is all anyone really needs, or desires.",
-		"description": "All Characters are considered to have the Basic Weapons Header at Character creation.  What you do with it (if anything) is up to you.  Operatives and Marksmen primarily use Basic Weapons, though most Headers are compatible with them (check each under Compatible Proficiencies)",
+		"description": "All Characters are considered to have the Basic Weapons Header at Character creation.  What you do with it (if anything) is up to you.  Operatives and Marksmen primarily use Basic Weapons, though most Headers are compatible with them (check each under Compatible Proficiencies)"
 	},
   {
 		"name": "Mid-Class Weapons",
 		"type": "HEADER",
 		"cost": 1,
 		"fluff": "A “true” weapon by any measure, just the sort of trustworthy piece to keep someone safe as they brave an uncertain world.",
-		"description": "Mid Class Weapons are the “Standard” of weapon sizes in our game.  Almost all Combat Style Headers are compatible with them, though they get the most use out of the Duelist, Skirmisher and Soldier Headers respectively.",
+		"description": "Mid Class Weapons are the “Standard” of weapon sizes in our game.  Almost all Combat Style Headers are compatible with them, though they get the most use out of the Duelist, Skirmisher and Soldier Headers respectively."
 	},
   {
 		"name": "Heavy Class",
 		"type": "HEADER",
 		"cost": 1,
 		"fluff": "For those that wield them these terrifying weapons wreak havoc upon those that would do their owners harm.",
-		"description": "The Heavy Class of weapons is the most limited in terms of Combat Styles in our game, however they more the make up for it.  Lancers make use of heavy weapons, while High Capacity fits a side role for most gun fights.",
-	},
+		"description": "The Heavy Class of weapons is the most limited in terms of Combat Styles in our game, however they more the make up for it.  Lancers make use of heavy weapons, while High Capacity fits a side role for most gun fights."
+		},
   {
 		"name": "Combat Training",
 		"type": "HEADER",
 		"cost": 3,
 		"fluff": "Simply proficiency is not always enough, having access to greater techniques makes a greater fighter.",
-		"description": "Combat Training allows for a large variety of combat options, and is required for some Combat Styles.",
+		"description": "Combat Training allows for a large variety of combat options, and is required for some Combat Styles."
 	},
   {
 		"name": "Special Weapons",
 		"type": "HEADER",
 		"cost": 3,
 		"fluff": "Some circumstances are more dire than others,  in these moments specialised equipment becomes the key to success.",
-		"description": "Special Weapons are explosives and firearms that are decidedly atypical and require further training than the norm.  While most of these weapons can be used with their equivalent Combat Style Header, it is important to note that most of these weapons require special ammunitions that needs to be found, bought, traded for, crafted or stolen in game.",
+		"description": "Special Weapons are explosives and firearms that are decidedly atypical and require further training than the norm.  While most of these weapons can be used with their equivalent Combat Style Header, it is important to note that most of these weapons require special ammunitions that needs to be found, bought, traded for, crafted or stolen in game."
 	},
   {
 		"name": "Authority",
 		"type": "HEADER",
 		"cost": 2,
 		"fluff": "In a world like Ora, a person’s reputation is often all they have. Sometimes that is all they need.",
-		"description": "Authority is a specialty header for characters that want to exert influence over the world of Ora with more than a sword or gun. Other than accumulating Influence Tokens for use in the Influence system, the Authority Specialty grants a character a number of other useful abilities for someone who would rather talk than fight. At high enough levels, the specialty header grants you access to your own estate, granting you further bonus and abilities. The influence you gain as part of the specialty can be of the famous or infamous variety.",
+		"description": "Authority is a specialty header for characters that want to exert influence over the world of Ora with more than a sword or gun. Other than accumulating Influence Tokens for use in the Influence system, the Authority Specialty grants a character a number of other useful abilities for someone who would rather talk than fight. At high enough levels, the specialty header grants you access to your own estate, granting you further bonus and abilities. The influence you gain as part of the specialty can be of the famous or infamous variety."
 	},
   {
 		"name": "Infiltration",
 		"type": "HEADER",
 		"cost": 2,
 		"fluff": "A thief is a someone who takes opportunity when they see it. We are above reactionary efforts, we create opportunity for ourselves.",
-		"description": "Infiltration is a specialty header for characters who want to get into places they don’t belong. This specialty header allows your character to disarm and use traps, to temporarily disguise himself as another race or culture, and even learn the secret language of other brigands on his level.",
+		"description": "Infiltration is a specialty header for characters who want to get into places they don’t belong. This specialty header allows your character to disarm and use traps, to temporarily disguise himself as another race or culture, and even learn the secret language of other brigands on his level."
 	},
   {
 		"name": "Investigator",
 		"type": "HEADER",
 		"cost": 2,
 		"fluff": "There is always a logical explanation. All that it takes is some elbow grease and the will to keep turning the next stone.",
-		"description": "Investigator is a specialty header for characters always on the hunt for more information. The skills in the Investigator Header allow a character to ask extra questions in Time Blocks, read special tags in game, investigate bodies for cause of death, interrogate suspects, and even reveal cloaked enemies.",
+		"description": "Investigator is a specialty header for characters always on the hunt for more information. The skills in the Investigator Header allow a character to ask extra questions in Time Blocks, read special tags in game, investigate bodies for cause of death, interrogate suspects, and even reveal cloaked enemies."
 	},
   {
 		"name": "Medic",
 		"type": "HEADER",
 		"cost": 2,
 		"fluff": "One of the few people who carries around a knife, is covered in gore, and who you want near you in a fight.",
-		"description": "Medic is a specialty header for characters who want to have access to non-magical healing. This specialty header allows your character to improve their first aid training, repair maimed limbs, bring someone back from the brink of death, and patch up the wounded.",
+		"description": "Medic is a specialty header for characters who want to have access to non-magical healing. This specialty header allows your character to improve their first aid training, repair maimed limbs, bring someone back from the brink of death, and patch up the wounded."
 	},
   {
 		"name": "Survivalist",
 		"type": "HEADER",
 		"cost": 2,
 		"fluff": "The forested parts of Ora are still some of the most untamed and dangerous places in the world.",
-		"description": "Survivalist is a specialty header for characters who are more at home in the wild. The skills in this header allow a character to track certain targets, keep their wits about them, make friends with creatures, follow woodland markings, and pretend to be dead to survive another day.",
-	},
+		"description": "Survivalist is a specialty header for characters who are more at home in the wild. The skills in this header allow a character to track certain targets, keep their wits about them, make friends with creatures, follow woodland markings, and pretend to be dead to survive another day."
+	} ,
   {
 		"name": "Duelist",
 		"type": "HEADER",
 		"cost": 3,
 		"fluff": "Duelists are masters of the single weapon, though sometimes also wield buckler shields, firearms or Off Hand parrying weapons as well.  Those that study the duelist path learn how to get the most of their preferred weapon, through the use of cunning trickery or through a staggering display of force.  The bored nobel is a duelist, as well as the brute with a club.",
-		"description": "Compatible Proficiencies - Single Mid-Class Weapon, Single Off Hand Weapon; Either can be paired with - An offhand Weapon; A  Low Capacity Weapon; or a Shield[1].\n\nDuelist Header Ability - Once per reset you may use the PARRY ability for free, even if you do not have the ability.  If you have the PARRY ability, you may use this ability Twice per reset.  These uses of PARRY count for the RIPOSTE ability if you have it.",
-	},
+		"description": "Compatible Proficiencies - Single Mid-Class Weapon, Single Off Hand Weapon; Either can be paired with - An offhand Weapon; A  Low Capacity Weapon; or a Shield[1].\n\nDuelist Header Ability - Once per reset you may use the PARRY ability for free, even if you do not have the ability.  If you have the PARRY ability, you may use this ability Twice per reset.  These uses of PARRY count for the RIPOSTE ability if you have it."
+	} ,
   {
 		"name": "Skirmisher",
 		"type": "HEADER",
@@ -165,21 +166,21 @@
 		"cost": 3,
 		"fluff": "A Thaumaturge is an old word from the ancient world for “miracle worker”, though in today’s modern times we commonly refer those that practice this art as Mages, Arcanists, Wizards and other grandiose titles.  Regardless of what you call them, those that work the arcane arts have learned how to invoke their will upon the world.",
 		"description": "In Sins of a Nation we have a fully developed Magic system that differs from our other headers in a couple of ways. If you are interested in playing a Thaumaturge or Mage in this game you should read the “Rules of Magic” (Appendix Document on our facebook page) .  Much of what is in this header will probably not make sense without reading that section first.  That document will also become useful in the creating and updating of your character as they are far too many symbols to reasonable list in this document.  Finally if one so chooses a Thaumaturge can pursue the making of Arcane Items by Purchasing the Runecrafter Abilities (see the Crafting Appendix for more information)"
-	}
+	},
   {
     "name": "Performer",
 		"type": "HEADER",
 		"cost": 3,
 		"fluff": "Those few individuals that have learned how to use their words, actions and song to tap into a form of power known as the song of creation.  By using this power their words inspire and uplift those that would listen, bestowing super natural abilities to their followers.  The populist politician is a performer, as well as the tavern bard or the traveling story teller.",
 		"description": "Performer Header Ability -  Once per reset you may use the Deep Breathing Ability for free. Once per reset you may use the Belt It Out ability for free.  If you have either of these abilities you gain an additional bonus use for each."
-  }
+  },
   {
 		"name": "Alchemy",
 		"type": "HEADER",
 		"cost": 3,
 		"fluff": "",
     "description": "Alchemy is a science that uses different compounds to make either different types of toxins (negative effects) or tonics (positive effects) that can be either mixed into drinks and food, or thrown in the form of gas globes (packets).  All Alchemical effects use a base element (aether, air, earth, fire, light, metal, nature, shadow, void, water) to “hold” their effects. Upon purchase you gain your first element for free, this represents knowledge of a specific type of compound.  As you purchase abilities you learn more complex properties that you can apply to your toxins or tonics.  Anyone who takes the Alchemy Header gains the Capacitor Formula immediately"
-    }
+    },
   
   {
 		"name": "Artisan",
@@ -187,7 +188,7 @@
 		"cost": 3,
 		"fluff": "",
     "description": ""
-    }
+    },
     
   {
 		"name": "Engineer",
@@ -196,7 +197,7 @@
 		"cost": 3,
 		"fluff": "",
     "description": ""
-    }
+    },
     {
 		"name": "Smith",
 		"type": "SPECIALIZATION",
@@ -205,5 +206,5 @@
 		"fluff": "",
     "description": ""
     }
-    
+]
    
