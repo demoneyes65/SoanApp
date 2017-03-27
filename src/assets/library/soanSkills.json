@@ -272,7 +272,7 @@
 		"type": "HEADER",
 		"cost": 1,
 		"fluff": " Sometimes direct force is hardly the best option.  A little guile, a little diplomacy, and a little compromise can go a long way. And if things should go south as it were, a hasty retreat can prove necessary.  It can take influence to get the ball rolling on a great many of things.",
-		"description": "Influence Header Power - Fleet of Feet -  You have assessed the situation and have decided this is no place for you.  Once per reset you may retreat from an attacker.  During this time you call resist to any damage you receive for ten seconds as long as you are running away from a fight.  Bonus use if you have the Acrobatics Ability.",
+		"description": "Influence Header Power - Fleet of Feet -  You have assessed the situation and have decided this is no place for you.  Once per reset you may retreat from an attacker.  During this time you call resist to any damage you receive for ten seconds as long as you are running away from a fight.  Bonus use if you have the Acrobatics Ability."
 	},
 	{
 		"name": "Acrobatics",
@@ -365,7 +365,7 @@
 		"type": "HEADER",
 		"cost": 1,
 		"fluff": "There are some of those amongst us that are aware of a larger world.  These individuals have a knack for the super-natural and Divine elements around us.  Resonance allows us to perceive and a modicum of control of those super natural forces.",
-		"description": "Resonance Header Power - Elemental Resonance You find yourself able to speak to a great many things from beyond.  When this header power is active you can freely cast commune with one type of the following- Animal, Construct, Outsider",
+		"description": "Resonance Header Power - Elemental Resonance You find yourself able to speak to a great many things from beyond.  When this header power is active you can freely cast commune with one type of the following- Animal, Construct, Outsider"
 	},
 	{
 		"name": "Aetherial Vision",
@@ -440,7 +440,7 @@
 		"type": "HEADER",
 		"cost": 0,
 		"fluff": "Often overlooked but just as deadly in the right hands, sometimes a simple knife or low shot firearm is all anyone really needs, or desires.",
-		"description": "All Characters are considered to have the Basic Weapons Header at Character creation.  What you do with it (if anything) is up to you.  Operatives and Marksmen primarily use Basic Weapons, though most Headers are compatible with them (check each under Compatible Proficiencies)",
+		"description": "All Characters are considered to have the Basic Weapons Header at Character creation.  What you do with it (if anything) is up to you.  Operatives and Marksmen primarily use Basic Weapons, though most Headers are compatible with them (check each under Compatible Proficiencies)"
 	},
 	{
 		"name": "Basic Weapon Master",
@@ -479,7 +479,7 @@
 		"type": "HEADER",
 		"cost": 1,
 		"fluff": "A “true” weapon by any measure, just the sort of trustworthy piece to keep someone safe as they brave an uncertain world.",
-		"description": "Mid Class Weapons are the “Standard” of weapon sizes in our game.  Almost all Combat Style Headers are compatible with them, though they get the most use out of the Duelist, Skirmisher and Soldier Headers respectively.",
+		"description": "Mid Class Weapons are the “Standard” of weapon sizes in our game.  Almost all Combat Style Headers are compatible with them, though they get the most use out of the Duelist, Skirmisher and Soldier Headers respectively."
 	},
 	{
 		"name": "Weapon Master",
@@ -534,7 +534,7 @@
 		"type": "HEADER",
 		"cost": 1,
 		"fluff": "For those that wield them these terrifying weapons wreak havoc upon those that would do their owners harm.",
-		"description": "The Heavy Class of weapons is the most limited in terms of Combat Styles in our game, however they more the make up for it.  Lancers make use of heavy weapons, while High Capacity fits a side role for most gun fights.",
+		"description": "The Heavy Class of weapons is the most limited in terms of Combat Styles in our game, however they more the make up for it.  Lancers make use of heavy weapons, while High Capacity fits a side role for most gun fights."
 	},
 	{
 		"name": "High Capacity",
@@ -566,7 +566,7 @@
 		"type": "HEADER",
 		"cost": 3,
 		"fluff": "Simply proficiency is not always enough, having access to greater techniques makes a greater fighter.",
-		"description": "Combat Training allows for a large variety of combat options, and is required for some Combat Styles.",
+		"description": "Combat Training allows for a large variety of combat options, and is required for some Combat Styles."
 	},
 	{
 		"name": "Dual Wielding",
@@ -639,7 +639,7 @@
 		"type": "HEADER",
 		"cost": 3,
 		"fluff": "Some circumstances are more dire than others,  in these moments specialised equipment becomes the key to success.",
-		"description": "Special Weapons are explosives and firearms that are decidedly atypical and require further training than the norm.  While most of these weapons can be used with their equivalent Combat Style Header, it is important to note that most of these weapons require special ammunitions that needs to be found, bought, traded for, crafted or stolen in game.",
+		"description": "Special Weapons are explosives and firearms that are decidedly atypical and require further training than the norm.  While most of these weapons can be used with their equivalent Combat Style Header, it is important to note that most of these weapons require special ammunitions that needs to be found, bought, traded for, crafted or stolen in game."
 	},
 	{
 		"name": "Low Capacity Voltaic",
@@ -731,7 +731,7 @@
 		"type": "HEADER",
 		"cost": 2,
 		"fluff": "In a world like Ora, a person’s reputation is often all they have. Sometimes that is all they need.",
-		"description": "Authority is a specialty header for characters that want to exert influence over the world of Ora with more than a sword or gun. Other than accumulating Influence Tokens for use in the Influence system, the Authority Specialty grants a character a number of other useful abilities for someone who would rather talk than fight. At high enough levels, the specialty header grants you access to your own estate, granting you further bonus and abilities. The influence you gain as part of the specialty can be of the famous or infamous variety.",
+		"description": "Authority is a specialty header for characters that want to exert influence over the world of Ora with more than a sword or gun. Other than accumulating Influence Tokens for use in the Influence system, the Authority Specialty grants a character a number of other useful abilities for someone who would rather talk than fight. At high enough levels, the specialty header grants you access to your own estate, granting you further bonus and abilities. The influence you gain as part of the specialty can be of the famous or infamous variety."
 	},
 	{
 		"name": "Advanced Influence",
@@ -781,7 +781,7 @@
 		"type": "HEADER",
 		"cost": 2,
 		"fluff": "A thief is a someone who takes opportunity when they see it. We are above reactionary efforts, we create opportunity for ourselves.",
-		"description": "Infiltration is a specialty header for characters who want to get into places they don’t belong. This specialty header allows your character to disarm and use traps, to temporarily disguise himself as another race or culture, and even learn the secret language of other brigands on his level.",
+		"description": "Infiltration is a specialty header for characters who want to get into places they don’t belong. This specialty header allows your character to disarm and use traps, to temporarily disguise himself as another race or culture, and even learn the secret language of other brigands on his level."
 	},
 	{
 		"name": "Disable Device",
@@ -835,7 +835,7 @@
 		"type": "HEADER",
 		"cost": 2,
 		"fluff": "There is always a logical explanation. All that it takes is some elbow grease and the will to keep turning the next stone.",
-		"description": "Investigator is a specialty header for characters always on the hunt for more information. The skills in the Investigator Header allow a character to ask extra questions in Time Blocks, read special tags in game, investigate bodies for cause of death, interrogate suspects, and even reveal cloaked enemies.",
+		"description": "Investigator is a specialty header for characters always on the hunt for more information. The skills in the Investigator Header allow a character to ask extra questions in Time Blocks, read special tags in game, investigate bodies for cause of death, interrogate suspects, and even reveal cloaked enemies."
 	},
 	{
 		"name": "Around the Block",
@@ -858,7 +858,7 @@
 		"type": "SKILL",
 		"cost": 4,
 		"fluff": "Was it the bullet wound or the animal mauling? Either way he’s dead and you have a lot of questions.",
-		"description": "After roleplaying examining a dead  body for one minute, this  ability allows a character to ask one of the following questions of a body that has recently died.  You may perform this action as many times as you may like.\n\tWhat type of weapon, if any, killed you?\n\tWhat carriers, if any, were involved in you death?\n\t\What race are you?\n\tWhat was the race of your killer?",
+		"description": "After roleplaying examining a dead  body for one minute, this  ability allows a character to ask one of the following questions of a body that has recently died.  You may perform this action as many times as you may like.\n\tWhat type of weapon, if any, killed you?\n\tWhat carriers, if any, were involved in you death?\n\t What race are you?\n\tWhat was the race of your killer?",
 		"required_header": "Investigator"
 	},
 	{
@@ -866,7 +866,7 @@
 		"type": "SKILL",
 		"cost": 4,
 		"fluff": "It is amazing what a man will tell you when you lean on him.",
-		"description": "This ability allows a character to interrogate anyone he or she has physically restrained. Once the investigator has restrained the target with rope, cuffs (costume grade please, we don’t want to have to carry around bolt cutters), or a SUSTAINED BIND ability, that target is DOMINATED and can be asked any of the following questions by the investigator only.\n\tWhere were you at X time?\n\t\Who were you with at X time?\n\tDo you recognize X person or X weapon?\n\tWhy were you at X location?\n\tWhy were you waiting for/talking to/dealing with X person?\nAs a note, the DOMINATE will only work for these questions and cannot be used in any other way during the interrogation. If you plan on “roughing your suspect up”, make sure to ask for consent before engaging in physical roleplay.",
+		"description": "This ability allows a character to interrogate anyone he or she has physically restrained. Once the investigator has restrained the target with rope, cuffs (costume grade please, we don’t want to have to carry around bolt cutters), or a SUSTAINED BIND ability, that target is DOMINATED and can be asked any of the following questions by the investigator only.\n\tWhere were you at X time?\n\tWho were you with at X time?\n\tDo you recognize X person or X weapon?\n\tWhy were you at X location?\n\t Why were you waiting for talking to dealing with X person?\nAs a note, the DOMINATE will only work for these questions and cannot be used in any other way during the interrogation. If you plan on “roughing your suspect up”, make sure to ask for consent before engaging in physical roleplay.",
 		"activation_cost": "2FP",
 		"required_header": "Investigator"
 	},
@@ -884,7 +884,7 @@
 		"type": "HEADER",
 		"cost": 2,
 		"fluff": "One of the few people who carries around a knife, is covered in gore, and who you want near you in a fight.",
-		"description": "Medic is a specialty header for characters who want to have access to non-magical healing. This specialty header allows your character to improve their first aid training, repair maimed limbs, bring someone back from the brink of death, and patch up the wounded.",
+		"description": "Medic is a specialty header for characters who want to have access to non-magical healing. This specialty header allows your character to improve their first aid training, repair maimed limbs, bring someone back from the brink of death, and patch up the wounded."
 	},
 	{
 		"name": "Advanced Aid",
@@ -945,7 +945,7 @@
 		"type": "HEADER",
 		"cost": 2,
 		"fluff": "The forested parts of Ora are still some of the most untamed and dangerous places in the world.",
-		"description": "Survivalist is a specialty header for characters who are more at home in the wild. The skills in this header allow a character to track certain targets, keep their wits about them, make friends with creatures, follow woodland markings, and pretend to be dead to survive another day.",
+		"description": "Survivalist is a specialty header for characters who are more at home in the wild. The skills in this header allow a character to track certain targets, keep their wits about them, make friends with creatures, follow woodland markings, and pretend to be dead to survive another day."
 	},
 	{
 		"name": "Tracking",
@@ -995,7 +995,7 @@
 		"type": "HEADER",
 		"cost": 3,
 		"fluff": "Duelists are masters of the single weapon, though sometimes also wield buckler shields, firearms or Off Hand parrying weapons as well.  Those that study the duelist path learn how to get the most of their preferred weapon, through the use of cunning trickery or through a staggering display of force.  The bored nobel is a duelist, as well as the brute with a club.",
-		"description": "Compatible Proficiencies - Single Mid-Class Weapon, Single Off Hand Weapon; Either can be paired with - An offhand Weapon; A  Low Capacity Weapon; or a Shield[1].\n\nDuelist Header Ability - Once per reset you may use the PARRY ability for free, even if you do not have the ability.  If you have the PARRY ability, you may use this ability Twice per reset.  These uses of PARRY count for the RIPOSTE ability if you have it.",
+		"description": "Compatible Proficiencies - Single Mid-Class Weapon, Single Off Hand Weapon; Either can be paired with - An offhand Weapon; A  Low Capacity Weapon; or a Shield[1].\n\nDuelist Header Ability - Once per reset you may use the PARRY ability for free, even if you do not have the ability.  If you have the PARRY ability, you may use this ability Twice per reset.  These uses of PARRY count for the RIPOSTE ability if you have it."
 	},
 	{
 		"name": "Hobbling Strike",
@@ -1056,7 +1056,7 @@
 		"required_header": "Duelist",
 		"required_tier": {
 			"header": "Duelist",
-			"tier_rank": 1
+			"tier_rank": 1,
 			"tier_type": "Stamina",
 			"num_required": 2
 		}
@@ -1084,7 +1084,7 @@
 		"required_header": "Duelist",
 		"required_tier": {
 			"header": "Duelist",
-			"tier_rank": 1
+			"tier_rank": 1,
 			"tier_type": "Stamina",
 			"num_required": 2
 		}
@@ -1160,7 +1160,7 @@
 		"required_header": "Duelist",
 		"required_tier": {
 			"header": "Duelist",
-			"tier_rank": 1
+			"tier_rank": 1,
 			"tier_type": "Focus",
 			"num_required": 2
 		}
@@ -1188,7 +1188,7 @@
 		"required_header": "Duelist",
 		"required_tier": {
 			"header": "Duelist",
-			"tier_rank": 1
+			"tier_rank": 1,
 			"tier_type": "Focus",
 			"num_required": 2
 		}
@@ -1216,7 +1216,7 @@
 		"required_header": "Duelist",
 		"required_tier": {
 			"header": "Duelist",
-			"tier_rank": 1
+			"tier_rank": 1,
 			"tier_type": "Stamina",
 			"num_required": 2
 		}
@@ -1233,7 +1233,7 @@
 		"required_header": "Duelist",
 		"required_tier": {
 			"header": "Duelist",
-			"tier_rank": 1
+			"tier_rank": 1,
 			"tier_type": "Stamina",
 			"num_required": 2
 		}
@@ -1250,7 +1250,7 @@
 		"required_header": "Duelist",
 		"required_tier": {
 			"header": "Duelist",
-			"tier_rank": 1
+			"tier_rank": 1,
 			"tier_type": "Stamina",
 			"num_required": 2
 		}
@@ -1267,7 +1267,7 @@
 		"required_header": "Duelist",
 		"required_tier": {
 			"header": "Duelist",
-			"tier_rank": 1
+			"tier_rank": 1,
 			"tier_type": "Stamina",
 			"num_required": 2
 		}
@@ -1283,7 +1283,7 @@
 		"required_header": "Duelist",
 		"required_tier": {
 			"header": "Duelist",
-			"tier_rank": 2
+			"tier_rank": 2,
 			"tier_type": "Stamina",
 			"num_required": 2
 		}
@@ -1310,7 +1310,7 @@
 		"required_header": "Duelist",
 		"required_tier": {
 			"header": "Duelist",
-			"tier_rank": 2
+			"tier_rank": 2,
 			"tier_type": "Stamina",
 			"num_required": 2
 		}
@@ -1338,7 +1338,7 @@
 		"required_header": "Duelist",
 		"required_tier": {
 			"header": "Duelist",
-			"tier_rank": 1
+			"tier_rank": 1,
 			"tier_type": "Focus",
 			"num_required": 2
 		}
@@ -1355,7 +1355,7 @@
 		"required_header": "Duelist",
 		"required_tier": {
 			"header": "Duelist",
-			"tier_rank": 1
+			"tier_rank": 1,
 			"tier_type": "Focus",
 			"num_required": 2
 		}
@@ -1389,7 +1389,7 @@
 		"required_header": "Duelist",
 		"required_tier": {
 			"header": "Duelist",
-			"tier_rank": 1
+			"tier_rank": 1,
 			"tier_type": "Focus",
 			"num_required": 2
 		}
@@ -1397,7 +1397,7 @@
 	{
 	    "name": "Riposte",
 		"type": "SKILL",
-		"cost": 6
+		"cost": 6,
 		"fluff": "The Duelist parries so that he can prepare you for the killing blow.",
 		"description": "Every time you use the parry ability, gain use of one 1SP or 1FP ability you have for free.",
 		"activation_cost": "2FP Upkeep",
@@ -1477,7 +1477,7 @@
 		"required_header": "Skirmisher",
 		"required_tier": {
 			"header": "Skirmisher",
-			"tier_rank": 1
+			"tier_rank": 1,
 			"tier_type": "Stamina",
 			"num_required": 2
 		}
@@ -1491,7 +1491,7 @@
 		"tier_rank": 1,
 		"tier_type": "Stamina",
 		"required_header": "Skirmisher",
-		"required_skills": ["Restorative Rage"],
+		"required_skills": ["Restorative Rage"]
 	},
 	{
 	    "name": "Defensive Rage",
@@ -1505,7 +1505,7 @@
 		"required_header": "Skirmisher",
 		"required_tier": {
 			"header": "Skirmisher",
-			"tier_rank": 1
+			"tier_rank": 1,
 			"tier_type": "Stamina",
 			"num_required": 2
 		}
@@ -1519,7 +1519,7 @@
 		"tier_rank": 1,
 		"tier_type": "Stamina",
 		"required_header": "Skirmisher",
-		"required_skills": ["Defensive Rage"],
+		"required_skills": ["Defensive Rage"]
 	},
 	{
 	    "name": "Upgraded Defensive Rage (2)",
@@ -1530,7 +1530,7 @@
 		"tier_rank": 1,
 		"tier_type": "Stamina",
 		"required_header": "Skirmisher",
-		"required_skills": ["Upgraded Defensive Rage (1)"],
+		"required_skills": ["Upgraded Defensive Rage (1)"]
 	},
 	{
 	    "name": "Upgraded Defensive Rage (3)",
@@ -1541,7 +1541,7 @@
 		"tier_rank": 1,
 		"tier_type": "Stamina",
 		"required_header": "Skirmisher",
-		"required_skills": ["Upgraded Defensive Rage (2)"],
+		"required_skills": ["Upgraded Defensive Rage (2)"]
 	},
 	{
 	    "name": "Disarming Strike",
@@ -1603,7 +1603,7 @@
 		"required_header": "Skirmisher",
 		"required_tier": {
 			"header": "Skirmisher",
-			"tier_rank": 1
+			"tier_rank": 1,
 			"tier_type": "Focus",
 			"num_required": 2
 		}
@@ -4328,7 +4328,7 @@
 	{
 	    "name": "Concussive Shot",
 		"type": "SKILL",
-		"cost": 4
+		"cost": 4,
 		"fluff": "A single shot that causes your target to lose focus and reduce his mental capacity for a time.",
 		"description": "Upon Activation, shoot your target and call FOCUS FATIGUE.",
 		"activation_cost": "2SP",
@@ -4345,7 +4345,7 @@
 	{
 	    "name": "Debilitating Shot",
 		"type": "SKILL",
-		"cost": 4
+		"cost": 4,
 		"fluff": "A single shot that renders one of your target’s limbs useless.",
 		"description": "Upon Activation, shoot your target and call MAIM LEG or ARM.",
 		"activation_cost": "2SP",
@@ -4362,7 +4362,7 @@
 	{
 	    "name": "Fracturing Shot",
 		"type": "SKILL",
-		"cost": 4
+		"cost": 4,
 		"fluff": "A single shot that can bend or even break a target’s weapon.",
 		"description": "Upon Activation, shoot your target and call SHATTER.",
 		"activation_cost": "2SP",
@@ -4379,7 +4379,7 @@
 	{
 	    "name": "Enduring Effect",
 		"type": "SKILL",
-		"cost": 4
+		"cost": 4,
 		"fluff": "A modified draw that causes the following shot to last much longer than it normally would.",
 		"description": "Upon Activation, your next Marksmanship ability is modified to SHORT.",
 		"activation_cost": "2SP",
@@ -4396,7 +4396,7 @@
 	{
 	    "name": "Improved Hobbling Shot",
 		"type": "SKILL",
-		"cost": 4
+		"cost": 4,
 		"fluff": "A single shot that disables both of your target’s arms or both of their legs.",
 		"description": "Upon Activation, shoot your target and call BIND ARMS or LEGS; Bonus if you have already purchased Hobbling Shot.",
 		"activation_cost": "2FP",
@@ -4413,7 +4413,7 @@
 	{
 	    "name": "Disorienting Shot",
 		"type": "SKILL",
-		"cost": 4
+		"cost": 4,
 		"fluff": "A single shot that stuns your target.",
 		"description": "Upon Activation, shoot your target and call STUN.",
 		"activation_cost": "2FP",
@@ -4430,7 +4430,7 @@
 	{
 	    "name": "Throat Shot",
 		"type": "SKILL",
-		"cost": 4
+		"cost": 4,
 		"fluff": "A single impact shot to the throat makes it difficult for your target to speak or incant.",
 		"description": "Upon Activation, shoot your target and call SILENCE.",
 		"activation_cost": "2FP",
@@ -4447,7 +4447,7 @@
 	{
 	    "name": "Exhausting Shot",
 		"type": "SKILL",
-		"cost": 4
+		"cost": 4,
 		"fluff": "A single shot that physically incapacitates your target.",
 		"description": "Upon Activation, shoot your target and call STAMINA FATIGUE.",
 		"activation_cost": "2FP",
@@ -4464,7 +4464,7 @@
 	{
 	    "name": "Tactical Momentum",
 		"type": "SKILL",
-		"cost": 4
+		"cost": 4,
 		"fluff": "As your target tires, you only grow stronger.",
 		"description": "Every time you successfully attack with a FATIGUE type attack, gain 1 of the following Bonuses\n\tBESTOW WEAPON SHIELD TO SELF\n\tImmediate and free use of REND\n\tImmediate and free use of DISARM",
 		"activation_cost": "2FP Upkeep",
