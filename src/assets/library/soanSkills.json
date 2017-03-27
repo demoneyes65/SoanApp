@@ -15,13 +15,6 @@
 		"skills": ["Low Capacity", "Medium Capacity", "High Capacity"]
 	},
 	{
-		"name": "Physicality",
-		"type": "HEADER",
-		"cost": 1,
-		"fluff": "Physicality is an intense focus on the physical body,  the quality of having the kind of strength and energy that makes a great athlete. It takes athleticism and physicality to run marathons, play football, or sprint down a cobblestone street in high heels without falling.",
-		"description": "Physicality Header Power - Burst of Strength - You are above average in regards of your physical might.\nOnce per reset free use of any of the Strength(1-3) abilities.  One free Bonus Use of a Strength ability if you have also purchased it."
-	},
-	{
 		"name": "Dodge",
 		"type": "SKILL",
 		"cost": 6,
@@ -147,13 +140,6 @@
 		"required_skills": ["Strength (2)"]
 	},
 	{
-		"name": "Cognizance",
-		"type": "HEADER",
-		"cost": 1,
-		"fluff": "What is action without thought behind it?  Cognizance is the pursuit of a quality of mind, a strength of will, of sharp cunning wit.  It takes Cognizance to notice important clues in a book, to identify plant life along a road, or how to perform basic medical procedures.",
-		"description": "Cognizance Header Power - Power of the Mind - You are unusually prepared to use your will to ward off attacks. Once per reset free use of any of the Willpower(1-3) abilities.  One free Bonus Use of a Willpower ability if you have also purchased it."
-	},
-	{
 		"name": "Academic Mind",
 		"type": "SKILL",
 		"cost": 2,
@@ -268,13 +254,6 @@
 		"required_skills": ["Willpower (2)"]
 	},
 	{
-		"name": "Influence",
-		"type": "HEADER",
-		"cost": 1,
-		"fluff": " Sometimes direct force is hardly the best option.  A little guile, a little diplomacy, and a little compromise can go a long way. And if things should go south as it were, a hasty retreat can prove necessary.  It can take influence to get the ball rolling on a great many of things.",
-		"description": "Influence Header Power - Fleet of Feet -  You have assessed the situation and have decided this is no place for you.  Once per reset you may retreat from an attacker.  During this time you call resist to any damage you receive for ten seconds as long as you are running away from a fight.  Bonus use if you have the Acrobatics Ability."
-	},
-	{
 		"name": "Acrobatics",
 		"type": "SKILL",
 		"cost": 2,
@@ -361,13 +340,6 @@
 		"required_skills": ["Reputation (1)"]
 	},
 	{
-		"name": "Resonance",
-		"type": "HEADER",
-		"cost": 1,
-		"fluff": "There are some of those amongst us that are aware of a larger world.  These individuals have a knack for the super-natural and Divine elements around us.  Resonance allows us to perceive and a modicum of control of those super natural forces.",
-		"description": "Resonance Header Power - Elemental Resonance You find yourself able to speak to a great many things from beyond.  When this header power is active you can freely cast commune with one type of the following- Animal, Construct, Outsider"
-	},
-	{
 		"name": "Aetherial Vision",
 		"type": "SKILL",
 		"cost": 2,
@@ -436,13 +408,6 @@
 		"required_header": "Resonance"
 	},
 	{
-		"name": "Basic Weapons Header",
-		"type": "HEADER",
-		"cost": 0,
-		"fluff": "Often overlooked but just as deadly in the right hands, sometimes a simple knife or low shot firearm is all anyone really needs, or desires.",
-		"description": "All Characters are considered to have the Basic Weapons Header at Character creation.  What you do with it (if anything) is up to you.  Operatives and Marksmen primarily use Basic Weapons, though most Headers are compatible with them (check each under Compatible Proficiencies)"
-	},
-	{
 		"name": "Basic Weapon Master",
 		"type": "SKILL",
 		"cost": 2,
@@ -473,13 +438,6 @@
 		"fluff": "Quick, quiet and easy to apply Toxins to.",
 		"description": "Allows Character to wield 8” coreless boffer throwing weapons",
 		"required_header": "Basic Weapons Header"
-	},
-	{
-		"name": "Mid-Class Weapons",
-		"type": "HEADER",
-		"cost": 1,
-		"fluff": "A “true” weapon by any measure, just the sort of trustworthy piece to keep someone safe as they brave an uncertain world.",
-		"description": "Mid Class Weapons are the “Standard” of weapon sizes in our game.  Almost all Combat Style Headers are compatible with them, though they get the most use out of the Duelist, Skirmisher and Soldier Headers respectively."
 	},
 	{
 		"name": "Weapon Master",
@@ -530,13 +488,6 @@
 		"required_header": "Mid-Class Weapons"
 	},
 	{
-		"name": "Heavy Class",
-		"type": "HEADER",
-		"cost": 1,
-		"fluff": "For those that wield them these terrifying weapons wreak havoc upon those that would do their owners harm.",
-		"description": "The Heavy Class of weapons is the most limited in terms of Combat Styles in our game, however they more the make up for it.  Lancers make use of heavy weapons, while High Capacity fits a side role for most gun fights."
-	},
-	{
 		"name": "High Capacity",
 		"type": "SKILL",
 		"cost": 1,
@@ -560,13 +511,6 @@
 		"fluff": "In the hands of one proficiency a devastating force to bring to the battlefield.",
 		"description": "Allows Character to wield Two Handed weapons, these weapons require both hands on them to be used.  min size 49” max size 72”",
 		"required_header": "Heavy Class"
-	},
-	{
-		"name": "Combat Training",
-		"type": "HEADER",
-		"cost": 3,
-		"fluff": "Simply proficiency is not always enough, having access to greater techniques makes a greater fighter.",
-		"description": "Combat Training allows for a large variety of combat options, and is required for some Combat Styles."
 	},
 	{
 		"name": "Dual Wielding",
@@ -633,13 +577,6 @@
 		"description": "Allows Character 10 Armor Points as long as she or he is wearing a suitable Heavy armor physrep",
 		"required_header": "Combat Training",
 		"required_skills": ["Light Armor"]
-	},
-	{
-		"name": "Special Weapons",
-		"type": "HEADER",
-		"cost": 3,
-		"fluff": "Some circumstances are more dire than others,  in these moments specialised equipment becomes the key to success.",
-		"description": "Special Weapons are explosives and firearms that are decidedly atypical and require further training than the norm.  While most of these weapons can be used with their equivalent Combat Style Header, it is important to note that most of these weapons require special ammunitions that needs to be found, bought, traded for, crafted or stolen in game."
 	},
 	{
 		"name": "Low Capacity Voltaic",
@@ -727,13 +664,6 @@
 		"required_skills": ["High Capacity"]
 	},
 	{
-		"name": "Authority",
-		"type": "HEADER",
-		"cost": 2,
-		"fluff": "In a world like Ora, a person’s reputation is often all they have. Sometimes that is all they need.",
-		"description": "Authority is a specialty header for characters that want to exert influence over the world of Ora with more than a sword or gun. Other than accumulating Influence Tokens for use in the Influence system, the Authority Specialty grants a character a number of other useful abilities for someone who would rather talk than fight. At high enough levels, the specialty header grants you access to your own estate, granting you further bonus and abilities. The influence you gain as part of the specialty can be of the famous or infamous variety."
-	},
-	{
 		"name": "Advanced Influence",
 		"type": "SKILL",
 		"cost": 4,
@@ -775,13 +705,6 @@
 		"description": "This ability grants a character 1 extra Influence Token per Expedition in addition to the 2 they already receive for a total of 3 Influence Tokens per Expedition.",
 		"required_header": "Authority",
 		"required_skills": ["Reputation (2)"]
-	},
-	{
-		"name": "Infiltration",
-		"type": "HEADER",
-		"cost": 2,
-		"fluff": "A thief is a someone who takes opportunity when they see it. We are above reactionary efforts, we create opportunity for ourselves.",
-		"description": "Infiltration is a specialty header for characters who want to get into places they don’t belong. This specialty header allows your character to disarm and use traps, to temporarily disguise himself as another race or culture, and even learn the secret language of other brigands on his level."
 	},
 	{
 		"name": "Disable Device",
@@ -831,13 +754,6 @@
 		"required_header": "Infiltration"
 	},
 	{
-		"name": "Investigator",
-		"type": "HEADER",
-		"cost": 2,
-		"fluff": "There is always a logical explanation. All that it takes is some elbow grease and the will to keep turning the next stone.",
-		"description": "Investigator is a specialty header for characters always on the hunt for more information. The skills in the Investigator Header allow a character to ask extra questions in Time Blocks, read special tags in game, investigate bodies for cause of death, interrogate suspects, and even reveal cloaked enemies."
-	},
-	{
 		"name": "Around the Block",
 		"type": "SKILL",
 		"cost": 2,
@@ -878,13 +794,6 @@
 		"description": "This ability allows a character to BY GESTURE PERCEIVE  CLOAK. The Investigator can do this to someone who is cloaked in shadows or sometime trying to disguise his appearance.",
 		"activation_cost": "2FP",
 		"required_header": "Investigator"
-	},
-	{
-		"name": "Medic",
-		"type": "HEADER",
-		"cost": 2,
-		"fluff": "One of the few people who carries around a knife, is covered in gore, and who you want near you in a fight.",
-		"description": "Medic is a specialty header for characters who want to have access to non-magical healing. This specialty header allows your character to improve their first aid training, repair maimed limbs, bring someone back from the brink of death, and patch up the wounded."
 	},
 	{
 		"name": "Advanced Aid",
@@ -941,13 +850,6 @@
 		"required_header": "Medic"
 	},
 	{
-		"name": "Survivalist",
-		"type": "HEADER",
-		"cost": 2,
-		"fluff": "The forested parts of Ora are still some of the most untamed and dangerous places in the world.",
-		"description": "Survivalist is a specialty header for characters who are more at home in the wild. The skills in this header allow a character to track certain targets, keep their wits about them, make friends with creatures, follow woodland markings, and pretend to be dead to survive another day."
-	},
-	{
 		"name": "Tracking",
 		"type": "SKILL",
 		"cost": 2,
@@ -989,13 +891,6 @@
 		"fluff": "Those that know how to perceive,  benefit from the wilderness.",
 		"description": "This ability gives the character a booklet of symbols of a “Hunter’s language”.  These marks deliver information and sometimes offer special abilities or actions that are unavailable to others.",
 		"required_header": "Survivalist"
-	},
-	{
-		"name": "Duelist",
-		"type": "HEADER",
-		"cost": 3,
-		"fluff": "Duelists are masters of the single weapon, though sometimes also wield buckler shields, firearms or Off Hand parrying weapons as well.  Those that study the duelist path learn how to get the most of their preferred weapon, through the use of cunning trickery or through a staggering display of force.  The bored nobel is a duelist, as well as the brute with a club.",
-		"description": "Compatible Proficiencies - Single Mid-Class Weapon, Single Off Hand Weapon; Either can be paired with - An offhand Weapon; A  Low Capacity Weapon; or a Shield[1].\n\nDuelist Header Ability - Once per reset you may use the PARRY ability for free, even if you do not have the ability.  If you have the PARRY ability, you may use this ability Twice per reset.  These uses of PARRY count for the RIPOSTE ability if you have it."
 	},
 	{
 		"name": "Hobbling Strike",
@@ -1421,13 +1316,6 @@
 		"tier_type": "Focus",
 		"required_header": "Duelist",
 		"required_skills": ["Riposte"]
-	},
-	{
-		"name": "Skirmisher",
-		"type": "HEADER",
-		"cost": 3,
-		"fluff": "The skirmisher is an uncontained force on the field of battle.  By wielding their chosen weapons in frightful displays of aggression and will.  Wielding two weapons at the same time grants skirmishers unprecedented amounts of offense against their enemies. Skirmishers are masters at perfecting their strength and will, and preventing others from limiting them in engagements.",
-		"description": "Compatible Proficiencies - Must be dual wielding any combination of Mid-Class or Off Hand Weapons, or Wielding any Mid Class Weapon with a Medium Capacity Weapon, or any Off Hand Weapon with a Medium Capacity Weapon.\n\nSkirmisher Header Ability - Once per reset you gain two free uses of either a crushing 5 attack, or a piercing 5 attack depending on your physreps (crushing if axe/blunt piercing if sword/spear, if you are using mixed weapon types you may use one of each or two of one)"
 	},
 	{
 	    "name": "Arterial Strike",
@@ -2044,13 +1932,6 @@
 		}
 	},
 	{
-		"name": "Guardian",
-		"type": "HEADER",
-		"cost": 3,
-		"fluff": "Scholars who master in the arts of negation and command of battlefields, guardians are the iron walls in both ancient and modern warfare.  By dedicating themselves in tactics that exploit their enemies and as well as becoming a bulwark of physicality to negate a vast amount of harassment Guardians survive where others often fall.",
-		"description": "Compatible Proficiencies - Any applicable weapon with a Shield(1) or Shield(2). Must have Shield in hand.\n\nGuardian Header Ability- Plant - Guardians have the ability with an uninterrupted three count to establish a line and hold it.  Doing so requires you to not move from the location you have “planted” yourself, while planted you gain certain benefits.  Certain abilities that Guardian possess require this to function.\nOnce per reset when you Plant yourself you may either a) resist three crushing attacks, or b) call three weapon shields to successful attacks to your person.  These can be mixed and matched as needed to a maximum of three total uses of defense."
-	},
-	{
 	    "name": "Advance",
 		"type": "SKILL",
 		"cost": 2,
@@ -2544,13 +2425,6 @@
 			"tier_type": "Focus",
 			"num_required": 2
 		}
-	},
-	{
-		"name": "Lancer",
-		"type": "HEADER",
-		"cost": 3,
-		"fluff": "Lancers are completely dedicated to their weapons.  Using a stunning display of savagery and grace they are able to control the battlefield in unique ways.  By taking advantage of the massive amount of reach their chosen weapons are able to deliver, Lancers learn how to harass and maneuver their enemies into vulnerable positions.",
-		"description": "Compatible Proficiencies - Any Two Hander\n\nLancer Header Ability - Once per reset, you may activate your header ability to make your next 3 swings  BIND, DISARM, or SLAM. You can use these calls split up among these swings as you please, such as swinging 2 DISARMS and a SLAM or 3 BINDS."
 	},
 	{
 	    "name": "Hobbling Jab",
@@ -3205,13 +3079,6 @@
 		}
 	},
 	{
-		"name": "Operative",
-		"type": "HEADER",
-		"cost": 3,
-		"fluff": "Masters of using covert tactics against their enemies, the operative excels with sudden violent ambushes and quick retreats.  Using hit and fade tactics with a mixture of melee and gunplay they quickly exploit their opponents weaknesses to gain an upper hand.  A brigand on a lonely road is an operative, as is the professional assassin.",
-		"description": "Compatible Proficiencies - Off Hand Weapons; Low Capacity Weapons.  May wield either with a Shield(1) or Shield(2)\nProficiency Note -  While you may wield other one handed weapons with the ones stated above, you may only use Operative Abilities through either your Off Hand weapon or your Low Capacity Weapon.\n\nOperative Header Ability - Hit and Run Tactics - Operatives are unmatched in their abilities to suddenly hide or, without warning, strike. Once per reset use either the STEALTH or CLOAK abilities for free; Bonus use of each if you have purchased said abilities."
-	},
-	{
 	    "name": "Throat Strike/Shot",
 		"type": "SKILL",
 		"cost": 2,
@@ -3758,13 +3625,6 @@
 		}
 	},
 	{
-		"name": "Archery",
-		"type": "HEADER",
-		"cost": 3,
-		"fluff": "Though a fading trend in this modern world, there are those that enjoy the use of the old ways of doing things.  Cumbersome and slow to draw and fire, Archers make up for it by massive amount of whelmed power they hold in their hands.",
-		"description": "Compatible Proficiencies- 20lb Bow\n\nArchery Header Ability - If you take this header power for your reset, you may shoot either the CRUSHING or PIERCING effect every time you fire from your bow."
-	},
-	{
 	    "name": "Greater Hobbling Strike",
 		"type": "SKILL",
 		"cost": 2,
@@ -4159,12 +4019,6 @@
 		}
 	},
 	{
-		"name": "Marksmanship",
-		"type": "HEADER",
-		"cost": 3,
-		"description": "Compatible Proficiencies- Low-Capacity Firearms\n\nMarksmanship Header Ability - Aim - Twice per reset you can roleplay aiming at a target.  If you Aim for ten seconds you gain a free use of a Tier 1 Marksmanship Ability (even if you don’t have it), if you aim for thirty seconds you gain a free use of a Tier 2 Marksmanship ability (even if you don’t have it yet).  Attacks should be made towards the target you were aiming at."
-	},
-	{
 	    "name": "Pistol Whip/Riflebutt",
 		"type": "SKILL",
 		"cost": 2,
@@ -4477,12 +4331,6 @@
 			"tier_type": "Focus",
 			"num_required": 2
 		}
-	},
-	{
-		"name": "Soldier",
-		"type": "HEADER",
-		"cost": 3,
-		"description": "Compatible Proficiencies - Medium Capacity Weapons\n\nSoldier Header Ability: True Grit- Once this header power is active a Soldier may make three free attacks of either 5 crushing, 5 piercing or use the Rally ability once for free"
 	},
 	{
 	    "name": "Pistol Whip/Riflebutt",
@@ -4958,13 +4806,6 @@
 		}
 	},
 	{
-		"name": "Divine",
-		"type": "HEADER",
-		"cost": 3,
-		"fluff": "Through their words and deeds we feel the warmth of the gods around us.  Whether called Clerics, Druids, Priests or Oracles these women and men of the divine show us the way.",
-		"description": "Divine magic, unlike Thaumaturgic Magic, has more to do with faith rather than study.  Though there are differences from one pantheon to another, there is a foundation of powers they can call upon to enact what they believe to be for the betterment of all, or in their God’s will. The Divine magic header is different from performers and Thaumaturgists as it is remembering specific prayers to perform specific abilities. For an idea of how to go about creating and using your Divine Incants, see the Cleric Domain Appendix. The other difference is the Sermon ability, which functions much more like a performer as it requires a longer incant to do a much bigger effect. Always check if the Prayer Ability you are purchasing has a Sermon connected to it so you can prepare yourself if the need to use said ability arises. NOTE- Sermons have a performance time and their own Activation cost.  Finally if one so chooses a Divine Caster can pursue the making of Holy Items by Purchasing the Blessing Abilities(see the Crafting Appendix for more information)\n\nDivine Header Power - Place of Prayer - By speaking the words and performing the ceremony you make a holy place, if only for a small time.  With this header power active you may consecrate a place to your faith.  After you perform the ceremony detailed in your Faith packet anyone who enters the space of your faith can reset in ten minutes rather than fifteen.  This effect ends once you make a different header power active."
-	},
-	{
 	    "name": "Healing Touch",
 		"type": "SKILL",
 		"cost": 2,
@@ -4973,12 +4814,5 @@
 		"activation_cost": "1FP or 1SP",
 		"tier_rank": 0,
 		"required_header": "Divine"
-	},
-	{
-		"name": "Thaumaturgy",
-		"type": "HEADER",
-		"cost": 3,
-		"fluff": "",
-		"description": ""
 	}
 ]
